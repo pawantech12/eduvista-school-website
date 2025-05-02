@@ -29,8 +29,8 @@ export default function AboutPage() {
             </h2>
             <p className="mt-4 text-lg text-gray-600">
               Founded in 1985, our school has grown from a small community
-              school to a leading educational institution. We've maintained our
-              commitment to academic excellence and character development
+              school to a leading educational institution. We&apos;ve maintained
+              our commitment to academic excellence and character development
               throughout our history.
             </p>
           </div>
@@ -62,7 +62,7 @@ export default function AboutPage() {
                   Growth and Development
                 </h3>
                 <p className="mt-2 text-gray-600">
-                  Over the decades, we've expanded our campus, enhanced our
+                  Over the decades, we&apos;ve expanded our campus, enhanced our
                   curriculum, and built a strong reputation for educational
                   excellence. Today, we serve over 1,200 students with a faculty
                   of 100 dedicated educators.
@@ -178,8 +178,8 @@ export default function AboutPage() {
               Our Leadership Team
             </h2>
             <p className="mt-4 text-lg text-gray-600">
-              Meet the dedicated professionals who guide our school's vision and
-              operations.
+              Meet the dedicated professionals who guide our school&apos;s
+              vision and operations.
             </p>
           </div>
 

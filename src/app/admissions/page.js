@@ -36,7 +36,7 @@ export default function AdmissionsPage() {
               Our Admissions Process
             </h2>
             <p className="mt-4 text-lg text-gray-600">
-              We've designed a straightforward process to help you explore
+              We&apos;ve designed a straightforward process to help you explore
               whether our school is the right fit for your family.
             </p>
           </div>
@@ -104,7 +104,7 @@ export default function AdmissionsPage() {
                   </h3>
                   <p className="mt-2 text-gray-600">
                     Upon acceptance, complete the enrollment process to secure
-                    your child's place.
+                    your child&apos;s place.
                   </p>
                 </div>
               </CardContent>
@@ -176,7 +176,7 @@ export default function AdmissionsPage() {
                             Birth Certificate
                           </h4>
                           <p className="text-gray-600">
-                            A copy of the student's birth certificate.
+                            A copy of the student&apos;s birth certificate.
                           </p>
                         </div>
                       </li>
@@ -642,8 +642,8 @@ export default function AdmissionsPage() {
               Ready to Begin Your Journey?
             </h2>
             <p className="mx-auto mt-4 max-w-xl text-lg text-teal-100">
-              Take the first step toward joining our school community. We're
-              excited to get to know your family.
+              Take the first step toward joining our school community.
+              We&apos;re excited to get to know your family.
             </p>
             <div className="mt-8 flex justify-center gap-4 flex-wrap">
               <Button

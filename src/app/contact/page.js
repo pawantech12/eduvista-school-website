@@ -16,8 +16,8 @@ export default function ContactPage() {
               Contact Us
             </h1>
             <p className="mx-auto mt-6 max-w-2xl text-xl text-teal-100">
-              We'd love to hear from you. Reach out with any questions about our
-              programs or admissions process.
+              We&apos;d love to hear from you. Reach out with any questions
+              about our programs or admissions process.
             </p>
           </div>
         </div>
@@ -32,8 +32,8 @@ export default function ContactPage() {
                 Get in Touch
               </h2>
               <p className="mt-4 text-lg text-gray-600">
-                We're here to answer your questions and provide the information
-                you need about our school.
+                We&apos;re here to answer your questions and provide the
+                information you need about our school.
               </p>
 
               <div className="mt-8 space-y-6">
@@ -110,8 +110,8 @@ export default function ContactPage() {
                     Send Us a Message
                   </h3>
                   <p className="mt-2 text-gray-600">
-                    Fill out the form below and we'll get back to you as soon as
-                    possible.
+                    Fill out the form below and we&apos;ll get back to you as
+                    soon as possible.
                   </p>
                   <form className="mt-6 space-y-4">
                     <div className="grid gap-4 sm:grid-cols-2">
@@ -233,8 +233,8 @@ export default function ContactPage() {
               Visit Our Campus
             </h2>
             <p className="mt-4 text-lg text-gray-600">
-              We're conveniently located in the heart of the city. Come see our
-              beautiful campus in person.
+              We&apos;re conveniently located in the heart of the city. Come see
+              our beautiful campus in person.
             </p>
           </div>
 

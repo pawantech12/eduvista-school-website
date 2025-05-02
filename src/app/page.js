@@ -84,8 +84,8 @@ export default function Home() {
                   Dedicated Faculty
                 </h3>
                 <p className="mt-2 text-sm text-gray-600">
-                  Passionate educators focused on each student's success and
-                  development.
+                  Passionate educators focused on each student&apos;s success
+                  and development.
                 </p>
               </CardContent>
             </Card>
@@ -299,9 +299,9 @@ export default function Home() {
                     </div>
                   </div>
                   <p className="mt-4 text-gray-600">
-                    "The teachers at this school truly care about each student's
-                    success. My child has thrived academically and socially
-                    since enrolling here."
+                    &quot;The teachers at this school truly care about each
+                    student&apos;s success. My child has thrived academically
+                    and socially since enrolling here.&quot;
                   </p>
                 </div>
               </CardContent>
@@ -328,9 +328,9 @@ export default function Home() {
                     </div>
                   </div>
                   <p className="mt-4 text-gray-600">
-                    "I've had amazing opportunities to explore my interests and
-                    develop my skills. The supportive environment has helped me
-                    grow as a student and as a person."
+                    &quot;I&apos;ve had amazing opportunities to explore my
+                    interests and develop my skills. The supportive environment
+                    has helped me grow as a student and as a person.&quot;
                   </p>
                 </div>
               </CardContent>
@@ -359,9 +359,9 @@ export default function Home() {
                     </div>
                   </div>
                   <p className="mt-4 text-gray-600">
-                    "The education I received prepared me well for college. The
-                    critical thinking skills and work ethic I developed have
-                    been invaluable in my university studies."
+                    &quot;The education I received prepared me well for college.
+                    The critical thinking skills and work ethic I developed have
+                    been invaluable in my university studies.&quot;
                   </p>
                 </div>
               </CardContent>

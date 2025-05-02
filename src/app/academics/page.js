@@ -526,7 +526,7 @@ export default function AcademicsPage() {
             </h2>
             <p className="mx-auto mt-4 max-w-xl text-lg text-teal-100">
               Schedule a meeting with our academic team to discuss how our
-              programs can support your child's educational journey.
+              programs can support your child&apos;s educational journey.
             </p>
             <div className="mt-8 flex justify-center gap-4 flex-wrap">
               <Button
