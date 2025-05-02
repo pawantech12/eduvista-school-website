@@ -17,7 +17,7 @@ export default function Footer() {
           <div>
             <div className="flex items-center space-x-2">
               <GraduationCap className="h-8 w-8 text-teal-300" />
-              <span className="text-xl font-bold">Excellence Academy</span>
+              <span className="text-xl font-bold">EduVista</span>
             </div>
             <p className="mt-4 text-teal-100">
               Providing quality education and nurturing young minds to become
@@ -146,8 +146,7 @@ export default function Footer() {
         <div className="mt-12 border-t border-teal-800 pt-8">
           <div className="flex flex-col items-center justify-between space-y-4 md:flex-row md:space-y-0">
             <p className="text-sm text-teal-300">
-              &copy; {new Date().getFullYear()} Excellence Academy. All rights
-              reserved.
+              &copy; {new Date().getFullYear()} EduVista. All rights reserved.
             </p>
             <div className="flex space-x-6">
               <Link href="#" className="text-sm text-teal-300 hover:text-white">

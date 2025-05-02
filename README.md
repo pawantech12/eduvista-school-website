@@ -1,36 +1,68 @@
-This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+# Eduvista - School Multipage Landing Website
 
-## Getting Started
+**Eduvista** is a responsive, modern, and accessible school landing website built using **Next.js**, **Tailwind CSS**, and **ShadCN UI**. It features a clean design and seamless user experience across multiple pages including Home, About, Academics, Admissions, and Contact.
 
-First, run the development server:
+## 🚀 Features
+
+- ⚡ Fast and optimized using **Next.js**
+- 💅 Fully styled with **Tailwind CSS**
+- 🧩 Beautiful components via **ShadCN UI**
+- 📱 Mobile-responsive layout
+- 📄 Multi-page structure for clear navigation:
+
+  - Home
+  - About Us
+  - Academics
+  - Admissions
+  - Contact
+
+- 🌐 SEO-friendly architecture
+- 🎨 Clean, modern UI with accessible design principles
+
+## 🛠️ Tech Stack
+
+- **Framework**: [Next.js](https://nextjs.org/)
+- **Styling**: [Tailwind CSS](https://tailwindcss.com/)
+- **UI Components**: [ShadCN UI](https://ui.shadcn.dev/)
+- **Icons**: [Lucide React Icons](https://lucide.dev/)
+
+## 📦 Getting Started
+
+### 1. Clone the Repository
 
 ```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
+git clone https://github.com/pawantech12/eduvista-school-website.git
+cd eduvista-school-website
 ```
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+### 2. Install Dependencies
 
-You can start editing the page by modifying `app/page.js`. The page auto-updates as you edit the file.
+```bash
+pnpm install
 
-This project uses [`next/font`](https://nextjs.org/docs/app/building-your-application/optimizing/fonts) to automatically optimize and load [Geist](https://vercel.com/font), a new font family for Vercel.
+```
 
-## Learn More
+### 3. Run the Development Server
 
-To learn more about Next.js, take a look at the following resources:
+```bash
+pnpm run dev
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+```
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js) - your feedback and contributions are welcome!
+Visit `http://localhost:3000` in your browser to view the app.
 
-## Deploy on Vercel
+## 🔧 Customization
 
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
+You can modify content in the `/app` directory or add your own components in the `/components` folder. Tailwind's utility-first classes make customization quick and intuitive.
 
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details.
+## 📬 Contact
+
+If you'd like to collaborate or have any questions:
+
+- Portfolio: [portfolio](https://pawan-kumavat-personal-portfolio.vercel.app/)
+- Email: [pawankumavat042@gmail.com](mailto:pawankumavat042@gmail.com)
+- GitHub: [@pawantech12](https://github.com/pawantech12)
+
+## 📄 License
+
+This project is free to use.

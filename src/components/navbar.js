@@ -27,9 +27,7 @@ export default function Navbar() {
       <div className="container mx-auto flex h-16 items-center justify-between px-4 sm:px-6 lg:px-8">
         <Link href="/" className="flex items-center space-x-2">
           <GraduationCap className="h-8 w-8 text-teal-600" />
-          <span className="text-xl font-extrabold text-teal-800">
-            Excellence Academy
-          </span>
+          <span className="text-xl font-extrabold text-teal-800">EduVista</span>
         </Link>
 
         {/* Desktop Navigation */}
